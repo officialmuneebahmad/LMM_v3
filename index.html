@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Explore top laptop brands with real-time filtering and search. Find the best laptops by brand and price. Mobile-friendly and SEO optimized." />
+  <meta name="keywords" content="laptops, buy laptops, filter laptops, laptop search, laptop brands, laptop prices, laptop specs, RAM, processor, Laptop Mart, Laptop Store, Laptop Zone, laptop mart, laptop store, laptop zone" />
+  <meta name="author" content="Junaid Umer Qureshi" />
+  <link rel="shortcut icon" href="https://i.ibb.co/7xdg3cCS/logo.png" type="image/x-icon">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="output.css">
+  <title>Laptop Mart Multan</title>
+</head>
+
+<body class="bg-gray-900 text-gray-800">
+  <header class="bg-primary text-black p-4 flex flex-col justify-center items-center gap-y-6">
+    <img class="size-24" src="https://i.ibb.co/7xdg3cCS/logo.png" alt="laptop mart logo">
+    <h1 class="text-[#fafafa] text-4xl font-[Poppins] font-semibold text-center">Laptop Mart Multan</h1>
+    <h2 class="text-[#fafafa] text-2xl font-[Pacifico] text-center">Find Your Perfect Laptop</h2>
+  </header>
+
+  <main class="text-[#fafafa] p-4 max-w-6xl mx-auto">
+    <section class="mb-4">
+      <label for="search" class="block text-sm font-medium mb-1">Search Laptops</label>
+      <input type="text" id="search" placeholder="Search by name..." aria-label="Search laptops by name" class="w-full p-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-primary">
+    </section>
+
+    <section class="mb-4 grid gap-4 sm:grid-cols-2 md:grid-cols-3">
+      <!-- Filter Inputs -->
+      <div>
+        <label for="company" class="block text-sm font-medium mb-1">Choose Company</label>
+        <select id="company" aria-label="Filter laptops by company" class="w-full p-2 border rounded-md  focus:outline-none focus:ring-2 focus:ring-primary">
+          <option class="text-gray-900" value="">All</option>
+          <option class="text-gray-900" value="Dell">Dell</option>
+          <option class="text-gray-900" value="HP">HP</option>
+          <option class="text-gray-900" value="Apple">Apple</option>
+          <option class="text-gray-900" value="Lenovo">Lenovo</option>
+          <option class="text-gray-900" value="Asus">Asus</option>
+        </select>
+      </div>
+      <div>
+        <label for="price" class="block text-sm font-medium mb-1">Max Price</label>
+        <input type="number" id="price" placeholder="Enter max price" aria-label="Filter laptops by price" class="w-full p-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-primary">
+      </div>
+      <div>
+        <label for="processor" class="block text-sm font-medium mb-1">Processor</label>
+        <input type="text" id="processor" placeholder="e.g. i5, Ryzen 7" class="w-full p-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-primary">
+      </div>
+      <div>
+        <label for="generation" class="block text-sm font-medium mb-1">Generation</label>
+        <input type="text" id="generation" placeholder="e.g. 10th, 12th" class="w-full p-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-primary">
+      </div>
+      <div>
+        <label for="ram" class="block text-sm font-medium mb-1">RAM</label>
+        <input type="text" id="ram" placeholder="e.g. 8GB, 16GB" class="w-full p-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-primary">
+      </div>
+      <div>
+        <label for="storage" class="block text-sm font-medium mb-1">Storage</label>
+        <input type="text" id="storage" placeholder="e.g. 512GB SSD" class="w-full p-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-primary">
+      </div>
+      <div>
+        <label for="screen" class="block text-sm font-medium mb-1">Screen Size</label>
+        <input type="text" id="screen" placeholder="e.g. 14 inch" class="w-full p-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-primary">
+      </div>
+      <div>
+        <label for="graphics" class="block text-sm font-medium mb-1">Graphics</label>
+        <input type="text" id="graphics" placeholder="e.g. Intel Iris, NVIDIA" class="w-full p-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-primary">
+      </div>
+    </section>
+
+    <h1 class="text-4xl my-10">Latest Updates</h1>
+    <section id="laptop-list" class="grid gap-4 sm:grid-cols-2 md:grid-cols-3"></section>
+    <hr class="my-10">
+
+    <div id="pagination" class="flex justify-center space-x-2 mt-4"></div>
+
+  </main>
+
+  <footer>
+    <div id="footer-container"></div>
+    <script src="./footer.js" defer></script>
+  </footer>
+
+  <script src="script.js" defer></script>
+</body>
+
+</html>
