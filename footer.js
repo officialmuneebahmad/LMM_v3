@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
      <footer id="footer" class="text-[#fafafa] flex flex-col lg:flex-row lg:items-start  justify-between items-center gap-y-8 p-4 mt-8">
 
         <div class=" flex flex-col justify-center items-center">
-            <img id="logo" class="size-32 rounded-3xl " src="https://i.ibb.co/7xdg3cCS/logo.png" alt="logo">
+            <img id="logo" class="size-24 rounded-3xl " src="https://i.ibb.co/7xdg3cCS/logo.png" alt="logo">
             <p class=" w-64 p-2">
                 "We are committed to provide you the best & fresh in condition laptops
                 We ensure each laptop is thoroughly inspected, tested, and packaged with care. 
@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", function () {
         <div class="h-80 w-80"> 
             <iframe class="h-full w-full" 
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3448.405026746067!2d71.4638019741255!3d30.196985474847086!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x393b3314cfe5069f%3A0xcc3cbdda2af3beca!2sLaptop%20Mart!5e0!3m2!1sen!2s!4v1732517224205!5m2!1sen!2s"
-                style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+                style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"> Google Maps
             </iframe>
         </div>
 
