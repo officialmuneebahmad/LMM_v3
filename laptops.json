@@ -119,7 +119,30 @@
       "storage": "1000GB / 1TB SSD",
       "screen": "16 inch",
       "graphics": "4GB Radeon"
+    },
+    {
+      "name": "HP Elitebook Folio 1040 G3",
+      "company": "HP",
+      "price": 60000,
+      "processor": "i7",
+      "generation": "6th",
+      "ram": "8GB",
+      "storage": "256 SSD",
+      "screen": "14 inch",
+      "graphics": " Intel HD 520"
+    },
+    {
+      "name": "Lenovo PM Scheme",
+      "company": "Lenovo",
+      "price": 75000,
+      "processor": "i5",
+      "generation": "12th",
+      "ram": "8GB",
+      "storage": "256 SSD",
+      "screen": "14 inch",
+      "graphics": "4GB Intel Iris"
     }
+
 
   ]
   
