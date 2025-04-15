@@ -127,7 +127,7 @@
       "processor": "i7",
       "generation": "6th",
       "ram": "8GB",
-      "storage": "256 SSD",
+      "storage": "256GB SSD",
       "screen": "14 inch",
       "graphics": " Intel HD 520"
     },
@@ -138,9 +138,20 @@
       "processor": "i5",
       "generation": "12th",
       "ram": "8GB",
-      "storage": "256 SSD",
+      "storage": "256GB SSD",
       "screen": "14 inch",
       "graphics": "4GB Intel Iris"
+    },
+    {
+      "name": "HP NOTEBOOK 15s",
+      "company": "HP",
+      "price": 70000,
+      "processor": "AMD RYZEN 7 4700U",
+      "generation": "10th",
+      "ram": "16GB",
+      "storage": "256GB SSD",
+      "screen": "15.6 inch",
+      "graphics": "AMD Radeon"
     }
 
 
