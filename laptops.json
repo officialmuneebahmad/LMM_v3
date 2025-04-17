@@ -152,6 +152,116 @@
       "storage": "256GB SSD",
       "screen": "15.6 inch",
       "graphics": "AMD Radeon"
+    },
+    {
+      "name": "Microsoft Surface",
+      "company": "Microsoft",
+      "price": 60000,
+      "processor": "i5",
+      "generation": "7th",
+      "ram": "8GB",
+      "storage": "128GB SSD",
+      "screen": "13 inch",
+      "graphics": "Intel Graphics"
+    },
+    {
+      "name": "Microsoft Surface",
+      "company": "Microsoft",
+      "price": 70000,
+      "processor": "i5",
+      "generation": "8th",
+      "ram": "8GB",
+      "storage": "128GB SSD",
+      "screen": "13 inch",
+      "graphics": "Intel Graphics"
+    },
+    {
+      "name": "Hp Aero 635 G7",
+      "company": "HP",
+      "price": 85000,
+      "processor": "AMD Ryzen 5",
+      "generation": "10th",
+      "ram": "16GB",
+      "storage": "256GB SSD",
+      "screen": "14 inch",
+      "graphics": "AMD Radeon"
+    },
+    {
+      "name": "Microsoft Surface",
+      "company": "Microsoft",
+      "price": 65000,
+      "processor": "i7",
+      "generation": "7th",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "screen": "13 inch",
+      "graphics": "Intel Graphics"
+    },
+    {
+      "name": "Microsoft Surface",
+      "company": "Microsoft",
+      "price": 85000,
+      "processor": "i7",
+      "generation": "8th",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "screen": "13 inch",
+      "graphics": "Intel Graphics"
+    },
+    {
+      "name": "Microsoft Surface Pro 4",
+      "company": "Microsoft",
+      "price": 42000,
+      "processor": "i5",
+      "generation": "6th",
+      "ram": "4GB",
+      "storage": "128GB SSD",
+      "screen": "13 inch",
+      "graphics": "Intel Graphics"
+    },
+    {
+      "name": "Dell Latitude 7420",
+      "company": "Dell",
+      "price": 150000,
+      "processor": "i7",
+      "generation": "11th",
+      "ram": "32GB",
+      "storage": "512GB SSD",
+      "screen": "14 inch",
+      "graphics": "Intel Graphics"
+    },
+    {
+      "name": "Dell XPS 15 5540 Precision",
+      "company": "Dell",
+      "price": 165000,
+      "processor": "i7",
+      "generation": "9th",
+      "ram": "32GB",
+      "storage": "512GB SSD",
+      "screen": "15 inch",
+      "graphics": "T1000 GPU"
+    },
+    {
+      "name": "Dell XPS 15 9550",
+      "company": "Dell",
+      "price": 90000,
+      "processor": "i7",
+      "generation": "6th",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "screen": "15 inch",
+      "graphics": "NVIDIA GTX 960"
+    },
+    {
+      "name": "Dell 5550 Precision",
+      "company": "Dell",
+      "price": 220000,
+      "processor": "i7",
+      "generation": "10th",
+      "ram": "32GB",
+      "storage": "512GB SSD",
+      "screen": "15 inch",
+      "graphics": "4GB T1000 GPU"
     }
 
 
