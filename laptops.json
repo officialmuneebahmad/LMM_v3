@@ -146,7 +146,7 @@
       "name": "HP NOTEBOOK 15s",
       "company": "HP",
       "price": 70000,
-      "processor": "AMD RYZEN 7 4700U",
+      "processor": "AMD RYZEN 7",
       "generation": "10th",
       "ram": "16GB",
       "storage": "256GB SSD",
@@ -239,7 +239,7 @@
       "ram": "32GB",
       "storage": "512GB SSD",
       "screen": "15 inch",
-      "graphics": "T1000 GPU"
+      "graphics": "T1000 Graphics"
     },
     {
       "name": "Dell XPS 15 9550",
@@ -262,6 +262,39 @@
       "storage": "512GB SSD",
       "screen": "15 inch",
       "graphics": "4GB T1000 GPU"
+    },
+    {
+      "name": "Lenovo Thinkpad P53s",
+      "company": "Lenovo",
+      "price": 95000,
+      "processor": "i7",
+      "generation": "8th",
+      "ram": "32GB",
+      "storage": "512GB SSD",
+      "screen": "15 inch",
+      "graphics": "2GB NVIDIA <br> CARD"
+    },
+    {
+      "name": "HP Pavilion Gaming Laptop",
+      "company": "HP",
+      "price": 190000,
+      "processor": "i5",
+      "generation": "11th",
+      "ram": "32GB",
+      "storage": "512GB SSD",
+      "screen": "15 inch",
+      "graphics": "Iris Xe + <br> 4GB RTX 3050"
+    },
+    {
+      "name": "HP ZBOOK 15u G3",
+      "company": "HP",
+      "price": 60000,
+      "processor": "i7",
+      "generation": "6th",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "screen": "15 inch",
+      "graphics": "2GB NVIDIA <br> CARD"
     }
 
 
