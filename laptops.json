@@ -4,16 +4,16 @@
       "company": "Apple",
       "price": 95000,
       "processor": "i7",
-      "generation": "Model A1707",
+      "generation": "N/A",
       "ram": "16GB",
       "storage": "512GB SSD",
       "screen": "15.4 inch",
-      "graphics": "4GB Radeon"
+      "graphics": "4GB Radeon GPU"
     },
     {
       "name": "Apple MacBook Pro 2018",
       "company": "Apple",
-      "price": 140000,
+      "price": 130000,
       "processor": "i9",
       "generation": "Model A1990",
       "ram": "32GB",
@@ -24,9 +24,9 @@
     {
       "name": "Apple MacBook Pro 2019",
       "company": "Apple",
-      "price": 180000,
+      "price": 140000,
       "processor": "i9",
-      "generation": "Model 1990",
+      "generation": "N/A",
       "ram": "32GB",
       "storage": "512GB SSD",
       "screen": "15.4 inch",
@@ -35,9 +35,9 @@
     {
       "name": "Apple MacBook Pro 2019",
       "company": "Apple",
-      "price": 185000,
+      "price": 145000,
       "processor": "i9",
-      "generation": "Model A2141",
+      "generation": "N/A",
       "ram": "32GB",
       "storage": "512GB SSD",
       "screen": "15.4 inch",
@@ -295,6 +295,50 @@
       "storage": "256GB SSD",
       "screen": "15 inch",
       "graphics": "2GB NVIDIA <br> CARD"
+    },
+    {
+      "name": "Apple Macbook Pro 2019",
+      "company": "Apple",
+      "price": 130000,
+      "processor": "i7",
+      "generation": "N/A",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "screen": "16 inch",
+      "graphics": "4GB Graphics Card"
+    },
+    {
+      "name": "Apple MacBook Pro 2018",
+      "company": "Apple",
+      "price": 140000,
+      "processor": "i9",
+      "generation": "Model A1990",
+      "ram": "32GB",
+      "storage": "1000GB SSD",
+      "screen": "15.4 inch",
+      "graphics": "4GB Radeon Graphics"
+    },
+    {
+      "name": "Apple MacBook Air 2020",
+      "company": "Apple",
+      "price": 120000,
+      "processor": "i5",
+      "generation": "N/A",
+      "ram": "8GB",
+      "storage": "512GB SSD",
+      "screen": "13.3 inch",
+      "graphics": "Intel UHD Graphics"
+    },
+    {
+      "name": "Apple MacBook Air 2018",
+      "company": "Apple",
+      "price": 95000,
+      "processor": "i5",
+      "generation": "N/A",
+      "ram": "16GB",
+      "storage": "256GB SSD",
+      "screen": "13.3 inch",
+      "graphics": "Intel UHD Graphics"
     }
 
 
