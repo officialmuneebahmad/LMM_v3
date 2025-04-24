@@ -105,33 +105,46 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
+  // get pagination
   function getPagination(current, total) {
-    const delta = 2;
-    const range = [];
-    const rangeWithDots = [];
-    let l;
-
-    for (let i = 1; i <= total; i++) {
-      if (i === 1 || i === total || (i >= current - delta && i <= current + delta)) {
-        range.push(i);
-      }
+    const pages = [];
+  
+    // Always include the first page
+    pages.push(1);
+  
+    // Add ellipsis if current - 1 is more than 2
+    if (current - 1 > 2) {
+      pages.push('...');
     }
-
-    for (let i of range) {
-      if (l) {
-        if (i - l === 2) {
-          rangeWithDots.push(l + 1);
-        } else if (i - l !== 1) {
-          rangeWithDots.push('...');
-        }
-      }
-      rangeWithDots.push(i);
-      l = i;
+  
+    // Include previous page if it's not first or out of range
+    if (current - 1 > 1) {
+      pages.push(current - 1);
     }
-
-    return rangeWithDots;
+  
+    // Always include current page (if not first or last)
+    if (current !== 1 && current !== total) {
+      pages.push(current);
+    }
+  
+    // Include next page if it's not last or out of range
+    if (current + 1 < total) {
+      pages.push(current + 1);
+    }
+  
+    // Add ellipsis if current + 1 is less than total - 1
+    if (current + 1 < total - 1) {
+      pages.push('...');
+    }
+  
+    // Always include the last page (if more than 1)
+    if (total > 1) {
+      pages.push(total);
+    }
+  
+    return pages;
   }
-
+  
   function filterLaptops() {
     const filtered = laptops.filter(laptop => {
       return (
