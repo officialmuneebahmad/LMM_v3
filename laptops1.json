@@ -9,7 +9,7 @@
       "ram": "16GB",
       "storage": "512GB SSD",
       "screen": "15.4 inch",
-      "graphics": "4GB Radeon GPU"
+      "graphics": "4GB Radeon Graphics GPU"
     },
     {
       "name": "Apple MacBook Pro 2018",
@@ -21,7 +21,7 @@
       "ram": "32GB",
       "storage": "512GB SSD",
       "screen": "15.4 inch",
-      "graphics": "4GB Radeon"
+      "graphics": "4GB Radeon Graphics"
     },
     {
       "name": "Apple MacBook Pro 2019",
@@ -33,7 +33,7 @@
       "ram": "32GB",
       "storage": "512GB SSD",
       "screen": "15.4 inch",
-      "graphics": "4GB Radeon"
+      "graphics": "4GB Radeon Graphics"
     },
     {
       "name": "Apple MacBook Pro 2019",
@@ -45,7 +45,7 @@
       "ram": "32GB",
       "storage": "512GB SSD",
       "screen": "15.4 inch",
-      "graphics": "4GB Radeon"
+      "graphics": "4GB Radeon Graphics"
     },
     {
       "name": "Apple MacBook Pro 2019",
@@ -57,7 +57,7 @@
       "ram": "16GB",
       "storage": "512GB SSD",
       "screen": "15.4 inch",
-      "graphics": "4GB Radeon"
+      "graphics": "4GB Radeon Graphics"
     },
     {
       "name": "Apple MacBook Pro 2019",
@@ -69,7 +69,7 @@
       "ram": "32GB",
       "storage": "1TB SSD",
       "screen": "15.4 inch",
-      "graphics": "4GB Radeon"
+      "graphics": "4GB Radeon Graphics"
     },
     {
       "name": "Apple MacBook Pro 2019",
@@ -81,7 +81,7 @@
       "ram": "16GB",
       "storage": "256GB SSD",
       "screen": "15.4 inch",
-      "graphics": "4GB Radeon"
+      "graphics": "4GB Radeon Graphics"
     },
     {
       "name": "Apple MacBook Pro 2017",
@@ -93,7 +93,7 @@
       "ram": "8GB",
       "storage": "256GB SSD",
       "screen": "13 inch",
-      "graphics": "4GB Radeon"
+      "graphics": "4GB Radeon Graphics"
     },
     {
       "name": "Apple MacBook Pro 2016",
@@ -105,7 +105,7 @@
       "ram": "16GB",
       "storage": "256GB SSD",
       "screen": "13 inch",
-      "graphics": "4GB Radeon"
+      "graphics": "4GB Radeon Graphics"
     },
     {
       "name": "Apple MacBook Pro 2017",
@@ -117,7 +117,7 @@
       "ram": "16GB",
       "storage": "512GB SSD",
       "screen": "13 inch",
-      "graphics": "4GB Radeon Graphics"
+      "graphics": "4GB Radeon Graphics Graphics"
     },
     {
       "name": "Apple MacBook Pro 2019",
@@ -129,7 +129,7 @@
       "ram": "16GB",
       "storage": "1000GB / 1TB SSD",
       "screen": "16 inch",
-      "graphics": "4GB Radeon Graphics"
+      "graphics": "4GB Radeon Graphics Graphics"
     },
     {
       "name": "HP Elitebook Folio 1040 G3",
@@ -158,14 +158,14 @@
     {
       "name": "HP Notebook 15s",
       "company": "HP",
-      "price": 70000,
+      "price": 85000,
       "processor": "AMD RYZEN 7",
-      "generation": "10th",
+      "generation": "N/A",
       "model": "15s",
       "ram": "16GB",
       "storage": "256GB SSD",
       "screen": "15.6 inch",
-      "graphics": "AMD Radeon"
+      "graphics": "AMD Radeon Graphics Graphics"
     },
     {
       "name": "Microsoft Surface",
@@ -194,14 +194,14 @@
     {
       "name": "Hp Aero 635 G7",
       "company": "HP",
-      "price": 85000,
+      "price": 80000,
       "processor": "AMD Ryzen 5",
       "generation": "10th",
       "model": "635 G7",
       "ram": "16GB",
       "storage": "256GB SSD",
       "screen": "14 inch",
-      "graphics": "AMD Radeon"
+      "graphics": "AMD Radeon Graphics"
     },
     {
       "name": "Microsoft Surface",
@@ -345,7 +345,7 @@
       "ram": "32GB",
       "storage": "1000GB / 1TB SSD",
       "screen": "15.4 inch",
-      "graphics": "4GB Radeon Graphics"
+      "graphics": "4GB Radeon Graphics Graphics"
     },
     {
       "name": "Apple MacBook Air 2020",
@@ -381,7 +381,7 @@
       "ram": "32GB",
       "storage": "2000GB / 2TB SSD",
       "screen": "15.4 inch",
-      "graphics": "4GB Radeon Graphics"
+      "graphics": "4GB Radeon Graphics Graphics"
     },
     {
       "name": "Apple MacBook Pro 2019",
@@ -393,7 +393,7 @@
       "ram": "32GB",
       "storage": "512GB SSD",
       "screen": "16 inch",
-      "graphics": "4GB Radeon Graphics"
+      "graphics": "4GB Radeon Graphics Graphics"
     },
     {
       "name": "Apple MacBook Pro 2019",
@@ -405,7 +405,7 @@
       "ram": "32GB",
       "storage": "1000GB / 1TB SSD",
       "screen": "16 inch",
-      "graphics": "4GB Radeon Graphics"
+      "graphics": "4GB Radeon Graphics Graphics"
     },
     {
       "name": "Apple MacBook Pro 2018",
@@ -417,7 +417,7 @@
       "ram": "16GB",
       "storage": "1000GB / 1TB SSD",
       "screen": "15.4 inch",
-      "graphics": "4GB Radeon Graphics"
+      "graphics": "4GB Radeon Graphics Graphics"
     },
     {
       "name": "Apple MacBook Pro 2018",
@@ -429,7 +429,7 @@
       "ram": "16GB",
       "storage": "512GB SSD",
       "screen": "15.4 inch",
-      "graphics": "4GB Radeon Graphics"
+      "graphics": "4GB Radeon Graphics Graphics"
     },
     {
       "name": "Apple MacBook Pro 2019",
@@ -441,19 +441,19 @@
       "ram": "16GB",
       "storage": "512GB SSD",
       "screen": "16 inch",
-      "graphics": "4GB Radeon Graphics"
+      "graphics": "4GB Radeon Graphics Graphics"
     },
     {
       "name": "Apple MacBook Pro 2019",
       "company": "Apple",
       "price": 150000,
       "processor": "i9",
-      "generation": "A2141",
-      "model": "N/A",
+      "generation": "N/A",
+      "model": "A2141",
       "ram": "32GB",
       "storage": "512GB SSD",
       "screen": "15.4 inch",
-      "graphics": "4GB Radeon Graphics"
+      "graphics": "4GB Radeon Graphics Graphics"
     },
     {
       "name": "Apple MacBook Pro 2017",
@@ -465,7 +465,7 @@
       "ram": "16GB",
       "storage": "512GB SSD",
       "screen": "15.4 inch",
-      "graphics": "2GB Radeon GPU"
+      "graphics": "2GB Radeon Graphics GPU"
     },
     {
     "name": "Apple MacBook Pro 2016",
@@ -477,7 +477,7 @@
     "ram": "16GB",
     "storage": "256GB SSD",
     "screen": "15.4 inch",
-    "graphics": "2GB Radeon Graphics"
+    "graphics": "2GB Radeon Graphics Graphics"
   },
   {
     "name": "Apple MacBook Pro 2015",
@@ -562,7 +562,152 @@
     "storage": "256GB SSD",
     "screen": "~14.6 inch",
     "graphics": "Intel HD Graphics"
+  },
+  {
+    "name": "Apple MacBook Pro 2019",
+    "company": "Apple",
+    "price": 150000,
+    "processor": "i7",
+    "generation": "N/A",
+    "model": "A2141",
+    "ram": "32GB",
+    "storage": "512GB SSD",
+    "screen": "16 inch",
+    "graphics": "4GB Radeon Graphics Graphics"
+  },
+  {
+    "name": "Dell XPS 9510",
+    "company": "Dell",
+    "price": 285000,
+    "processor": "i7",
+    "generation": "11th",
+    "model": "9510",
+    "ram": "32GB",
+    "storage": "1000GB / 1TB SSD",
+    "screen": "15.6 inch",
+    "graphics": "4GB RTX 3050 Ti"
+  },
+  {
+    "name": "Lenovo X13",
+    "company": "Lenovo",
+    "price": 75000,
+    "processor": "AMD Ryzen 5",
+    "generation": "10th",
+    "model": "X13",
+    "ram": "32GB",
+    "storage": "512GB SSD",
+    "screen": "~14 inch",
+    "graphics": "AMD Graphics"
+  },
+  {
+    "name": "Lenovo X1 Carbon",
+    "company": "Lenovo",
+    "price": 60000,
+    "processor": "i7",
+    "generation": "7th",
+    "model": "X1 Carbon",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "screen": "~14 inch",
+    "graphics": "Intel Graphics"
+  },
+  {
+    "name": "Hp Probook 450 G6",
+    "company": "HP",
+    "price": 65000,
+    "processor": "i5",
+    "generation": "8th",
+    "model": "450 G6",
+    "ram": "16GB",
+    "storage": "256GB SSD",
+    "screen": "~15.4 inch",
+    "graphics": "Intel Graphics"
+  },
+  {
+    "name": "Hp Elitebook 640 G10",
+    "company": "HP",
+    "price": 155000,
+    "processor": "i5",
+    "generation": "13th",
+    "model": "640 G10",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "screen": "~14 inch",
+    "graphics": "Intel Graphics"
+  },
+  {
+    "name": "Dell Precision 5540",
+    "company": "Dell",
+    "price": 165000,
+    "processor": "i7",
+    "generation": "9th",
+    "model": "5540",
+    "ram": "32GB",
+    "storage": "512GB SSD",
+    "screen": "~15.4 inch",
+    "graphics": "Intel Graphics"
+  },
+  {
+    "name": "Hp Zbook 14 Fire Fly 🔥",
+    "company": "HP",
+    "price": 95000,
+    "processor": "i5",
+    "generation": "10th",
+    "model": "14 Fire Fly",
+    "ram": "16GB",
+    "storage": "256GB SSD",
+    "screen": "~14.5 inch",
+    "graphics": "Intel Graphics GPU"
+  },
+  {
+    "name": "Hp Vostro 5391",
+    "company": "Dell",
+    "price": 100000,
+    "processor": "i7",
+    "generation": "10th",
+    "model": "5391",
+    "ram": "8GB",
+    "storage": "512GB SSD",
+    "screen": "~13.3 inch",
+    "graphics": "2GB Graphics Card"
+  },
+  {
+    "name": "Lenovo Thinkpad T480",
+    "company": "Lenovo",
+    "price": 60000,
+    "processor": "i5",
+    "generation": "8th",
+    "model": "T480",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "screen": "~14 inch",
+    "graphics": "Intel UHD Graphics"
+  },
+  {
+    "name": "Hp Elitebook 840 G7",
+    "company": "HP",
+    "price": 100000,
+    "processor": "i7",
+    "generation": "10th",
+    "model": "840 G7",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "screen": "~14 inch",
+    "graphics": "Intel UHD Graphics"
+  },
+  {
+    "name": "Dell XPS 13 9360 Kaby Lake",
+    "company": "Dell",
+    "price": 80000,
+    "processor": "i7",
+    "generation": "8th",
+    "model": "9360",
+    "ram": "8GB",
+    "storage": "512GB SSD",
+    "screen": "~14 inch",
+    "graphics": "Intel UHD Graphics"
   }
+
 
 
 

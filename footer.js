@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
      <footer id="footer" class="text-[#fafafa] flex flex-col lg:flex-row lg:items-start  justify-between items-center gap-y-8 p-4 mt-8">
 
         <div class=" flex flex-col justify-center items-center">
-            <img id="logo" class="size-24 rounded-3xl " src="https://i.ibb.co/7xdg3cCS/logo.png" alt="logo">
+            <img id="logo" class="size-36 rounded-3xl " src="https://iili.io/3MhZ5pS.png" alt="logo">
             <p class=" w-64 p-2">
                 "We are committed to provide you the best & fresh in condition laptops
                 We ensure each laptop is thoroughly inspected, tested, and packaged with care. 
@@ -49,7 +49,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
      <div id="web-end" class="flex flex-col gap-y-4 justify-between items-center p-4 mt-8 bg-[#252054] text-white">
         <p>&copy; Copyright By LaptopMart (Multan) 💻 Team 2024 - 2025. All Rights Reserved</p>
-        <p class="flex justify-around items-center"> Made with ❤️ from <img id="pakflag" class="size-8 mx-4" src="https://i.ibb.co/rKK5QK49/flag.png" alt="pak-flag"></p>
+        <p class="flex justify-around items-center"> Made with ❤️ from <img id="pakflag" class="size-8 mx-4" src="https://iili.io/3MhZxBs.png" alt="pak-flag"></p>
      </div>
     `;
 
