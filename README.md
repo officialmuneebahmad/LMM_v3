@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Laptop Mart Multan v3 Logo](https://raw.githubusercontent.com/officialmuneebahmad/LMM_v3/master/useful_links/lmm_logo.png) <!-- TODO: Add actual project logo and path, placeholder for now -->
+![Laptop Mart Multan v3 Logo](https://iili.io/3MhZ5pS.png) 
 
 [![GitHub stars](https://img.shields.io/github/stars/officialmuneebahmad/LMM_v3?style=for-the-badge)](https://github.com/officialmuneebahmad/LMM_v3/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/officialmuneebahmad/LMM_v3?style=for-the-badge)](https://github.com/officialmuneebahmad/LMM_v3/network)
